@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	. "github.com/brentp/irelate/interfaces"
+	. "github.com/xuyangy/irelate/interfaces"
 )
 
 func relate(a Relatable, b Relatable, relativeTo int) {

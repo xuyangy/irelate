@@ -3,8 +3,8 @@ package irelate
 import (
 	"testing"
 
-	"github.com/brentp/bix"
-	"github.com/brentp/irelate/interfaces"
+	"github.com/xuyangy/bix"
+	"github.com/xuyangy/irelate/interfaces"
 )
 
 func benchmarkStreams(nStreams int, b *testing.B) {

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/brentp/irelate/interfaces"
+	"github.com/xuyangy/irelate/interfaces"
 )
 
 const empty = ""

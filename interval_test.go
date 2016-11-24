@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/brentp/irelate/interfaces"
-	"github.com/brentp/irelate/parsers"
+	. "github.com/xuyangy/irelate/interfaces"
+	"github.com/xuyangy/irelate/parsers"
 )
 
 func TestInterval(t *testing.T) {
